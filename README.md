@@ -50,4 +50,8 @@ AWS_REGION = us-east-1
 
 https://github.com/entbappy/bentoml-demo
 
+## git repository setup
+i am going to setup the git repository
+
+
 
